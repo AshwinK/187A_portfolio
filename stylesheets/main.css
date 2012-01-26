@@ -7,3 +7,17 @@ font-size: 20px;
 font-weight: 200;
 line-height: 1;
 }
+
+.topbar div > ul.secondary-nav, .nav.secondary-nav {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.topbar div > ul.secondary-nav .menu-dropdown,
+.nav.secondary-nav .menu-dropdown,
+.topbar div > ul.secondary-nav .dropdown-menu,
+.nav.secondary-nav .dropdown-menu {
+  right: 0;
+  border: 0;
+}
