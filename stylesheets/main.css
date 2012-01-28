@@ -48,3 +48,23 @@ body {
     color: white;
 }
 
+.reachme {
+    color: black;
+}
+
+.centered {
+    text-align: center;
+    color: black;
+}
+
+.blackback {
+    background-color:black;
+}
+
+.blackback > p , h3 {
+    color: white;
+}
+
+.helvetica {
+    font-family: "Helvetica Neue";
+}

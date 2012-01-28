@@ -19,6 +19,6 @@ $(document).ready(function() {
   $('#element').popover('show')
   $('#element').popover('hide')
   
-  
+  $(window).load()
 
 });
