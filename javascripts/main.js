@@ -18,5 +18,7 @@ $(document).ready(function() {
   $('#example').popover(options)
   $('#element').popover('show')
   $('#element').popover('hide')
+  
+  
 
 });

@@ -43,3 +43,8 @@ line-height: 1;
 body {
     background-image:url('images/background.jpg');
 }
+
+.hero-unit > h1, h2, p{
+    color: white;
+    
+}
